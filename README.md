@@ -1,5 +1,5 @@
 # hello-world
-To store ideas, resources, or share and discuss things with others.
+To say hello to the world!
 
 Hi Humans!
 
